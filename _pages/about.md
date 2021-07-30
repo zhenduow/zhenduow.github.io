@@ -19,9 +19,9 @@ Publications
   
 * [Umdsub at semeval-2018 task 2: Multilingual emoji prediction multi-channel convolutional neural network on subword embedding](https://arxiv.org/abs/1805.10274)\
   Zhenduo Wang, Ted Pedersen\
-  Proceedings of The 12th International Workshop on Semantic Evaluation, 2018 (NAACL SemEval)\
+  Proceedings of The 12th International Workshop on Semantic Evaluation (NAACL SemEval)\
   [[Code](https://github.com/zhenduow/Semeval2018-Task2-Emoji-Prediction)]
   
 * [ALANIS at SemEval-2018 Task 3: A Feature Engineering Approach to Irony Detection in English Tweets](https://aclanthology.org/S18-1082.pdf)\
   Kevin Swanberg, M Mirza, Ted Pedersen, Zhenduo Wang\
-  Proceedings of The 12th International Workshop on Semantic Evaluation, 2018 (NAACL SemEval)
+  Proceedings of The 12th International Workshop on Semantic Evaluation (NAACL SemEval)
