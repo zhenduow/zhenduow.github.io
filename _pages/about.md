@@ -17,7 +17,7 @@ Publications
   Proceedings of the Web Conference 2021 (WWW)\
   [[Code](https://github.com/zhenduow/conversationalQA)]
   
-* [Umdsub at semeval-2018 task 2: Multilingual emoji prediction multi-channel convolutional neural network on subword embedding](https://arxiv.org/abs/1805.10274)\
+* [UMDSub at semeval-2018 task 2: Multilingual emoji prediction multi-channel convolutional neural network on subword embedding](https://arxiv.org/abs/1805.10274)\
   Zhenduo Wang, Ted Pedersen\
   Proceedings of The 12th International Workshop on Semantic Evaluation (NAACL SemEval)\
   [[Code](https://github.com/zhenduow/Semeval2018-Task2-Emoji-Prediction)]
