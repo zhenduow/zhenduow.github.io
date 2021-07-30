@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zhenduo Wang (王祯铎) got his Master degree of Science at University of Minnesota Duluth. Now he is pursuing a PhD degree of Computer Science at University of Utah. His research interest lies mainly in Natural Language Processing and Information Retrieval. He also has some experiences of game developing.
+Zhenduo Wang (王祯铎) got his Master degree of Science at University of Minnesota Duluth. Now he is pursuing a Ph.D. degree of Computer Science at University of Utah. His research interests are Natural Language Processing and Information Retrieval. He also has some experiences of game developing.
 
 Publications
 ======
