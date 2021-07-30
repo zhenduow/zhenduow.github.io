@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhenduo Wang"
 title_separator          : "-"
 name                     : &name "Zhenduo Wang"
-description              : &description "PhD student at the University of Utah"
+description              : &description "Ph.D. student at the University of Utah"
 url                      : https://zhenduow.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhenduow/zhenduow.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhenduo Wang"
   avatar           : "profile.png"
-  bio              : "PhD student at the University of Utah"
+  bio              : "Ph.D. student at the University of Utah"
   location         : "Salt Lake City"
   employer         :
   pubmed           : 
