@@ -12,7 +12,7 @@ Zhenduo Wang (王祯铎) got his Master degree of Science at University of Minne
 
 Publications
 ======
-* [Simulating and Modeling the Risk of Conversational Search](https://arxiv.org/abs/2201.00235)\
+* [Simulating and Modeling the Risk of Conversational Search](https://dl.acm.org/doi/10.1145/3507357)\
   Zhenduo Wang, Qingyao Ai\
   ACM Transactions on Information Systems (TOIS)\
   [[Code](https://github.com/zhenduow/conversationalQA)]
