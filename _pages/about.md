@@ -20,7 +20,7 @@ Publications
 
 * [Marginal-Certainty-aware Fair Ranking Algorithm](https://arxiv.org/abs/2212.09031)\
   Tao Yang, Zhichao Xu, Zhenduo Wang, Anh Tran, Qingyao Ai\
-  o appear in Web Search and Data Mining Conference 2023 (WSDM)\
+  To appear in Web Search and Data Mining Conference 2023 (WSDM)\
   [[Code](https://github.com/Taosheng-ty/WSDM23-MCFair)]
   
 
