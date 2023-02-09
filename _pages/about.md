@@ -12,10 +12,10 @@ Zhenduo Wang (王祯铎) got his Master degree of Science at University of Minne
 
 Publications
 ======
-* [Zero-shot Clarifying Question Generation for Conversational Search]((https://arxiv.org/abs/2301.12660)\
+* [Zero-shot Clarifying Question Generation for Conversational Search](https://arxiv.org/abs/2301.12660)\
   Zhenduo Wang, Yuancheng Tu, Corby Rosset, Nick Craswell, Ming Wu, Qingyao Ai\
   To appear in Proceedings of the Web Conference 2023 (WWW)\
-  [[Code]([https://github.com/zhenduow/conversationalQA)](https://github.com/zhenduow/ZeroshotCQGen)]
+  [Code](https://github.com/zhenduow/ZeroshotCQGen)
 
 
 * [Marginal-Certainty-aware Fair Ranking Algorithm](https://arxiv.org/abs/2212.09031)\
