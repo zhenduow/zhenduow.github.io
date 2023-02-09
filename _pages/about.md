@@ -15,12 +15,13 @@ Publications
 * [Zero-shot Clarifying Question Generation for Conversational Search](https://arxiv.org/abs/2301.12660)\
   Zhenduo Wang, Yuancheng Tu, Corby Rosset, Nick Craswell, Ming Wu, Qingyao Ai\
   To appear in Proceedings of the Web Conference 2023 (WWW)\
-  [Code](https://github.com/zhenduow/ZeroshotCQGen)
+  [[Code](https://github.com/zhenduow/ZeroshotCQGen)]
 
 
 * [Marginal-Certainty-aware Fair Ranking Algorithm](https://arxiv.org/abs/2212.09031)\
   Tao Yang, Zhichao Xu, Zhenduo Wang, Anh Tran, Qingyao Ai\
   o appear in Web Search and Data Mining Conference 2023 (WSDM)\
+  [[Code](https://github.com/Taosheng-ty/WSDM23-MCFair)]
   
 
 * [Simulating and Modeling the Risk of Conversational Search](https://dl.acm.org/doi/10.1145/3507357)\
