@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zhenduo Wang (王祯铎) is a researcher on Conversational Systems, Language Generation, Reinforcement Learning and Imitation Learning. He got his Master degree of Science at University of Minnesota Duluth. Now he is a Ph.D. candidate in Computer Science at University of Utah. A resume can be found [here](https://github.com/zhenduow/zhenduow.github.io/blob/master/files/Resume.pdf). A research statement can be found [here](https://github.com/zhenduow/zhenduow.github.io/blob/master/files/Research_Statement.pdf).
+Zhenduo Wang is a researcher on Conversational Systems, Language Generation, Reinforcement Learning and Imitation Learning. He got his Master degree of Science at University of Minnesota Duluth. Now he is a Ph.D. candidate in Computer Science at University of Utah. A resume can be found [here](https://github.com/zhenduow/zhenduow.github.io/blob/master/files/Resume.pdf). A research statement can be found [here](https://github.com/zhenduow/zhenduow.github.io/blob/master/files/Research_Statement.pdf).
 
 Publications
 ======
