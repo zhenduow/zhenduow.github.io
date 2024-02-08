@@ -8,10 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Zhenduo Wang is a researcher on Conversational Systems, Language Generation, Reinforcement Learning and Imitation Learning. He got his Master degree of Science at University of Minnesota Duluth. Now he is a Ph.D. candidate in Computer Science at University of Utah. A resume can be found [here](https://github.com/zhenduow/zhenduow.github.io/blob/master/files/Resume.pdf). A research statement can be found [here](https://github.com/zhenduow/zhenduow.github.io/blob/master/files/Research_Statement.pdf).
+Zhenduo Wang is a researcher on Conversational Systems, Language Generation, Reinforcement Learning and Imitation Learning. He is now a postdoc at Georgia Institute of Technology. Before that, he defended his Ph.D. in Computer Science at the University of Utah and earned his Master degree of Math at University of Minnesota Duluth. A resume can be found [here](https://github.com/zhenduow/zhenduow.github.io/blob/master/files/Resume.pdf). His research statement can be found [here](https://github.com/zhenduow/zhenduow.github.io/blob/master/files/Research_Statement.pdf).
 
 Publications
 ======
+* [An In-depth Investigation of User Response Simulation for Conversational Search](https://arxiv.org/abs/2304.07944)\
+  <strong>Zhenduo Wang</strong>, Zhichao Xu, Qingyao Ai, Vivek Srikumar\
+  In Proceedings of the Web Conference 2024 (WWW)\
+  [[Code](https://github.com/zhenduow/UserSim)]
+  
 * [Zero-shot Clarifying Question Generation for Conversational Search](https://arxiv.org/abs/2301.12660)\
   <strong>Zhenduo Wang</strong>, Yuancheng Tu, Corby Rosset, Nick Craswell, Ming Wu, Qingyao Ai\
   In Proceedings of the Web Conference 2023 (WWW)\
