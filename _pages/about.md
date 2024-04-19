@@ -14,12 +14,12 @@ Selected Publications
 ======
 * [An In-depth Investigation of User Response Simulation for Conversational Search](https://arxiv.org/abs/2304.07944)\
   <strong>Zhenduo Wang</strong>, Zhichao Xu, Qingyao Ai, Vivek Srikumar\
-  In Proceedings of the Web Conference 2024 (<strong>WWW</strong>)\
+  In Proceedings of the Web Conference 2024 (<strong>WWW'24</strong>)\
   [[Code](https://github.com/zhenduow/UserSim)]
   
 * [Zero-shot Clarifying Question Generation for Conversational Search](https://arxiv.org/abs/2301.12660)\
   <strong>Zhenduo Wang</strong>, Yuancheng Tu, Corby Rosset, Nick Craswell, Ming Wu, Qingyao Ai\
-  In Proceedings of the Web Conference 2023 (<strong>WWW</strong>)\
+  In Proceedings of the Web Conference 2023 (<strong>WWW'23</strong>)\
   [[Code](https://github.com/zhenduow/ZeroshotCQGen)]
 
 * [Simulating and Modeling the Risk of Conversational Search](https://dl.acm.org/doi/10.1145/3507357)\
@@ -31,7 +31,7 @@ Selected Publications
 
 * [Controlling the Risk of Conversational Search via Reinforcement Learning](https://dl.acm.org/doi/abs/10.1145/3442381.3449893)\
   <strong>Zhenduo Wang</strong>, Qingyao Ai\
-  In Proceedings of the Web Conference 2021 (<strong>WWW</strong>)\
+  In Proceedings of the Web Conference 2021 (<strong>WWW'21</strong>)\
   [[Code](https://github.com/zhenduow/conversationalQA)]
   
 * [UMDSub at semeval-2018 task 2: Multilingual emoji prediction multi-channel convolutional neural network on subword embedding](https://arxiv.org/abs/1805.10274)\
