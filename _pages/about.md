@@ -13,7 +13,7 @@ Zhenduo Wang is a researcher on Conversational Systems, Language Generation, Rei
 Selected Publications
 ======
 * [An In-depth Investigation of User Response Simulation for Conversational Search](https://arxiv.org/abs/2304.07944)\
-  <strong>Zhenduo Wang</strong>, Zhichao Xu, Qingyao Ai, Vivek Srikumar\
+  <strong>Zhenduo Wang</strong>, Zhichao Xu, Vivek Srikumar, Qingyao Ai\
   In Proceedings of the Web Conference 2024 (<strong>WWW'24</strong>)\
   [[Code](https://github.com/zhenduow/UserSim)]
   
