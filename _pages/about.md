@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zhenduo Wang is a researcher on Conversational Systems, Language Generation, Reinforcement Learning, and Imitation Learning. He is now a postdoc at Georgia Tech. Before that, he defended his Ph.D. in Computer Science at the University of Utah and earned his Master's degree in Math at the University of Minnesota Duluth. A resume can be found [here](https://github.com/zhenduow/zhenduow.github.io/blob/master/files/Resume.pdf). His research statement can be found [here](https://github.com/zhenduow/zhenduow.github.io/blob/master/files/Research_Statement.pdf).
+I am a postdoctoral researcher on conversational systems and large language models at Georgia Tech. Before that, I obtained my Ph.D. in Computer Science at the University of Utah, advised by [Prof. Qingyao Ai](https://qingyaoai.github.io/) and [Prof. Vivek Srikumar](https://svivek.com/). I obtained my Master's degree in Math at the University of Minnesota Duluth, advised by [Prof. Ted Pedersen](https://www.d.umn.edu/~tpederse/) and [Prof. Yang Li](https://yangli-stat.github.io/). I was fortunate to be advised by [Prof. Risheng Liu](https://rsliu.tech/) during my undergraduate study in Dalian University of Technology. My resume can be found [here](https://github.com/zhenduow/zhenduow.github.io/blob/master/files/Resume.pdf). 
 
 Selected Publications
 ======
