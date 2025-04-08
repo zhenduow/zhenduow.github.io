@@ -12,12 +12,12 @@ I am a postdoctoral researcher on conversational systems and large language mode
 
 Selected Publications
 ======
-* [An In-depth Investigation of User Response Simulation for Conversational Search](https://arxiv.org/abs/2304.07944)\
+* [An In-depth Investigation of User Response Simulation for Conversational Search](https://dl.acm.org/doi/abs/10.1145/3589334.3645447)\
   <strong>Zhenduo Wang</strong>, Zhichao Xu, Vivek Srikumar, Qingyao Ai\
   In Proceedings of the Web Conference 2024 (<strong>WWW'24</strong>)\
   [[Code](https://github.com/zhenduow/UserSim)]
   
-* [Zero-shot Clarifying Question Generation for Conversational Search](https://arxiv.org/abs/2301.12660)\
+* [Zero-shot Clarifying Question Generation for Conversational Search](https://dl.acm.org/doi/abs/10.1145/3543507.3583420)\
   <strong>Zhenduo Wang</strong>, Yuancheng Tu, Corby Rosset, Nick Craswell, Ming Wu, Qingyao Ai\
   In Proceedings of the Web Conference 2023 (<strong>WWW'23</strong>)\
   [[Code](https://github.com/zhenduow/ZeroshotCQGen)]
