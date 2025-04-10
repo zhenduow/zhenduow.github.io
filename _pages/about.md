@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher on conversational systems and large language models at Georgia Tech working with [Prof. Alan Ritter](https://aritter.github.io/). Before it, I obtained my Ph.D. in Computer Science at the University of Utah, advised by [Prof. Qingyao Ai](https://qingyaoai.github.io/) and [Prof. Vivek Srikumar](https://svivek.com/). I obtained my Master's degree in Math at the University of Minnesota Duluth, advised by [Prof. Ted Pedersen](https://www.d.umn.edu/~tpederse/) and [Prof. Yang Li](https://yangli-stat.github.io/). I was advised by [Prof. Risheng Liu](https://rsliu.tech/) during my undergraduate study in Dalian University of Technology. I am very thankful to be advised by all of the great minds above. My resume can be found [here](https://github.com/zhenduow/zhenduow.github.io/blob/master/files/Resume.pdf). 
+I am a postdoctoral researcher on conversational systems and large language models at Georgia Tech working with [Prof. Alan Ritter](https://aritter.github.io/). Before it, I obtained my Ph.D. in Computer Science at the University of Utah, advised by [Prof. Qingyao Ai](https://qingyaoai.github.io/) and [Prof. Vivek Srikumar](https://svivek.com/). I obtained my Master's degree in Math at the University of Minnesota Duluth, advised by [Prof. Ted Pedersen](https://www.d.umn.edu/~tpederse/) and [Prof. Yang Li](https://yangli-stat.github.io/). I was advised by [Prof. Risheng Liu](https://rsliu.tech/) during my undergraduate study in Dalian University of Technology, China. I am very thankful to be advised by all of the great minds above. My resume can be found [here](https://github.com/zhenduow/zhenduow.github.io/blob/master/files/Resume.pdf). 
 
 Selected Publications
 ======
